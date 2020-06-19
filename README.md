@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## My First github page
+Hello, my name is glen and this Hello World is consist of java,python,html,c++,c,Kotlin languanges
+I'm a fullstack coder
 
-You can use the [editor on GitHub](https://github.com/stanislaussitompul/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Equipment
+My Equipment:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [VS Code](https://code.visualstudio.com/download)
+- [Github](github.com/stanislaussitompul)
+- [
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to run
+HTML   - just open it and a browser will appear
+c      - Install the C Programming languanges extension from vscode
+c++    - Install the C++ Programming languanges extension from vscode
+Kotlin - Android studio
+Java - Eclipse Java
 
 ```markdown
 Syntax highlighted code block
@@ -35,3 +43,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+ [My website](chilzcode.netlify.app) to know all my project
